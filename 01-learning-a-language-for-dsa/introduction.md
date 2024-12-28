@@ -1,4 +1,6 @@
-# Introduction
+# 01. Learning a language for DSA
+
+## Introduction
 
 they say having a deep understanding of the programming language you are going to use to practice DSA is crucial, i agree. i have been writing Javascript for 2+ years now and i think i would be confident enough to use it for DSA. However, i wanted to use this learning journey as an opportunity to learn another language, a language i've always wanted to learn so i can get into graphics programming, C/C++.
 
