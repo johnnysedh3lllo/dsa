@@ -148,10 +148,28 @@ These are some of the resources i would be using to learn these concepts. Same a
 
 ### Courses
 
-| Resource                                                                                                                            | Duration |      Effort       |                                                     Alt link                                                      |    Level     |
+| Resource                                                                                                                            | Duration |      Effort       |                                                     Alt link                                                      |    Level     | Prerequisites |
 | :---------------------------------------------------------------------------------------------------------------------------------- | :------: | :---------------: | :---------------------------------------------------------------------------------------------------------------: | :----------: |
-| [CS50's Introduction to Computer Science (Harvard)](https://cs50.harvard.edu/x)                                                     | 12 weeks | 10 -20 hours/week | [Edx Link](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science) |   Beginner   |
-| [Algorithms I (Princeton, Coursera)](https://www.coursera.org/learn/algorithms-part1)                                               | 54 hours |         -         |                                                         -                                                         | Intermediate |
-| [Stanford’s Algorithms Specialization (Coursera)](https://www.coursera.org/specializations/algorithms)                              | 1 month  |   10 hours/week   |                                                         -                                                         | Intermediate |
-| [Algorithms II (Princeton, Coursera)](https://www.coursera.org/learn/algorithms-part2)                                              | 62 hours |         -         |                                                         -                                                         |   Advanced   |
-| [MIT's OpenCourseWare: Introduction to Algorithms (6.006)](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/) | 20 - 22 hours |         -         |           [Youtube Playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)            |   Advanced   |
+| [CS50's Introduction to Computer Science (Harvard)](https://cs50.harvard.edu/x)                                                     | 12 weeks | 10 -20 hours/week | [Edx Link](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science) |   Beginner   | None |
+| [Algorithms I (Princeton, Coursera)](https://www.coursera.org/learn/algorithms-part1)                                               | 54 hours |         -         |                                                         -                                                         | Intermediate | Familiarity with **Java**, basic **discrete mathematics** (induction, logarithms), basic **data structures ** |
+| [Stanford’s Algorithms Specialization (Coursera)](https://www.coursera.org/specializations/algorithms)                              | 1 month  |   10 hours/week   |                                                         -                                                         | Intermediate | Programming
+experience (any
+language),
+understanding of
+**linear algebra,
+probability,
+combinatorics**, and
+basic **graph theory**.|
+| [Algorithms II (Princeton, Coursera)](https://www.coursera.org/learn/algorithms-part2)                                              | 62 hours |         -         |                                                         -                                                         |   Advanced   | **Algorithms I**,
+**advanced Java** familiarity, strong
+knowledge of **intermediate data structures (hash
+tables, BSTs, and
+priority queues)** |
+| [MIT's OpenCourseWare: Introduction to Algorithms (6.006)](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/) | 20 - 22 hours |         -         |           [Youtube Playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)            |   Advanced   | Proficiency in
+**Python or C++**,
+strong
+understanding of
+**discrete
+mathematics, linear
+algebra**, and basic
+**data structures** | 
