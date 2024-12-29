@@ -2,8 +2,8 @@
 
 ## My thoughts
 
-My first thought was to learn all the data structures necessary then move on to learn all the algorithms, then proceed to building projects.
-However, this may not be ideal from my research, given that the abstract nature of learning data structures and algorithms, most of the concepts would be abstract and it is important to apply most of these concepts to make the learning complete. So in this regard, I will be attempting to list all the data structures and algorithms while breaking them down into basic, intermediate and advanced.
+My first thought was to learn all the data structures, then move on to learn all the algorithms, then proceed to building projects.
+However, this may not be ideal from my research, given that the abstract nature of learning data structures and algorithm. most of the concepts to be learnt are abstract and it is important to apply most of these concepts while learning in order to make the learning in itself complete. So in this regard, I will be attempting to list all the data structures, breaking them down into basic, intermediate and advanced, and interleaving them with the algorithms to learn and practice problems/projects to practice the newly acquired knowledge on.
 
 _Note: to achieve this hierarchical order, I prompted both ChatGPT and Claude to observe patterns in the hierarchy._
 
