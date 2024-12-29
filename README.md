@@ -1,6 +1,6 @@
 # Data Structures and Algorithm Notes
 
-**NOTE: THIS REPOSITORY IS STILL A WORKING PROGRESS, SO PLEASE BE PATIENT, I BELIEVE THE BEST THINGS TAKE TIME (CERTAINLY NOT FOREVER, LOL) 🚧** 
+**NOTE: THIS REPOSITORY IS STILL A WORKING PROGRESS, SO PLEASE BE PATIENT, I BELIEVE THE BEST THINGS TAKE TIME (CERTAINLY NOT FOREVER, LOL) 🚧**
 
 Greetings Fellow Travelers, here is a repository dedicated to my learning journey for data structures and algorithms. i hope this documentation can serve as a reference for both myself and anyone viewing. this would containing my notes, list of resources as well as any helpful information necessary in the learning of this topic.
 
@@ -25,8 +25,8 @@ In deciding to learn this topic, it was rather daunting to fathom the sheer volu
 From the premise of these two articles below, *the advised roadmap to learn data structures and algorithms a*re as follows:
 
 1. [Learn and master the fundamentals of a Programming language](./01-learning-a-language-for-dsa/introduction.md).
-2. [Learn Time and Space Complexity Analysis](./02-time-and-space-complexity/index.md).
-3. [Learn the Basics of individual Data Structures and Algorithms](./03-leaning-individual-dsa/index.md).
+2. [Learn Time and Space Complexity Analysis](./02-time-and-space-complexity/introduction.md).
+3. [Learn the Basics of individual Data Structures and Algorithms](./03-leaning-individual-dsa/introduction.md).
 4. [Continous learning, Practice, Practice, Practice more](./04-continous-learnig-and-practice/index.md).
 5. [Participate and Compete in Competitions and Hackathons](./05-competing/index.md).
 
