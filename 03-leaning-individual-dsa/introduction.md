@@ -63,6 +63,16 @@ _Note: to achieve this hierarchical order, I prompted both ChatGPT and Claude to
     - [ ] Area calculations
     - [ ] Perimeter calculations
     - [ ] Basic vector operations
+- [ ] Recursion
+  - [ ] Understanding the call stack
+  - [ ] Base cases and recursive cases
+  - [ ] Simple recursive problems
+    - [ ] Factorial
+    - [ ] Fibonacci
+    - [ ] Array sum
+    - [ ] Power calculation
+  - [ ] Tree recursion
+  - [ ] Tail recursion
 
 ### Intermediate Data Structures
 
