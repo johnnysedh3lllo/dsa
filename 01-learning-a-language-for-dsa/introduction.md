@@ -20,3 +20,6 @@ Also, if you are up for the challenge but wouldn't like to use C/C++, here are s
 
 i would say, any language of your choice, however, picking a popular language would be beneficial in terms of seeking assistance, finding learning resources, following walkthroughs and explanations, etc.
 
+## Resources
+
+- [learncpp.com](https://www.learncpp.com)
