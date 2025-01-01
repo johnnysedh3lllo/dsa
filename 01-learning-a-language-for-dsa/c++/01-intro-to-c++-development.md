@@ -14,4 +14,4 @@
 
 [Reference link to article for steps 4 - 7 explanation](https://www.learncpp.com/cpp-tutorial/introduction-to-the-compiler-linker-and-libraries/)
 
-![alt text](./assets/c++-compiler-process.svg)
+![alt text](./assets/c++-compilation-process.svg)
